@@ -1,0 +1,20 @@
+I tried to install a few android os's. These are some of my notes.
+
+# Installation
+
+You can download the iso files and install onto a live usb. You can do this
+with the dd linux utility, but this can be dangerous. I lost everything on my
+hard disk this way. Its best to install etcher or some other program to create
+the live usb.
+
+## Partitioning
+
+The installations prefer a MBR or GPT partitioning table. Create an empty
+partiton to install the OS because the installer isn't good at partitioning
+itself. Tell it to install in the empty partition and create an ext4 file
+system.
+
+# Grub
+
+You may need to edit your grub configuration. The 2 files that I edited are
+`/etc/default/grub` and `/etc/grub.d/40_custom`

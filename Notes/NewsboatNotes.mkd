@@ -1,0 +1,4 @@
+Newsboat and podboat for linux terminal rss feed and podcast listening.
+
+You can obtain an rss feed from https://getrssfeed.com.  From here you can
+paste a soundcload url and a rss feed will be provided.
