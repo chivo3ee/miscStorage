@@ -1,0 +1,6 @@
+To get a rss url go to https://soundcloud.com and get the url for the podcast
+you are interested in and copy the link into https://getrssfeed.com. This will
+come up with a link to an rss feed that you can put into the .newsboat/urls
+file. Then in news boat go to the rss feed. Find the podcast you want to listen
+to and hit *e* to add the podcast to the .newsboat/queue file. Then you can
+open podboat to download the file.
