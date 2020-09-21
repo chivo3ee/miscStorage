@@ -18,12 +18,16 @@ system.
 
 ### PrimeOS
 
+Version standard
+
 I got this to boot. It worked nicely. One of the better user interfaces. Roblox
 would load, I could sign-in, but I the screen would go black when I tried to
 play a game. Running the app minimized helped. I could get into a game, but it
 eventually crashed.
 
 ### BlissOS
+
+Version v11.11
 
 I got this to boot, but I couldn't get Google Play to work properly.
 
@@ -32,6 +36,23 @@ I got this to boot, but I couldn't get Google Play to work properly.
 The best interface thus far. Google Play worked, but Roblox kept crashing when
 I tried to run it. Other apps such as Pandora, DuckDuckGo, Gacha Life all
 worked well.
+
+### Android x86
+
+Version x86-9.0-r2
+
+I couldn't get Google Play to work properly. It wouldn't let me into the OS
+without configuring Google Play.
+
+### Chromium OS
+
+Looks like you have to compile this one.
+
+### Remix OS
+
+### OpenThos
+
+### Lineage OS
 
 ## Grub
 
